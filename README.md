@@ -1,4 +1,4 @@
-# CaliforniaHousingRegression
+# California Housing Regression
 
 This repository contains the code and analysis for Machine Learning Assignment, which focuses on regression techniques applied to the California Housing dataset.
 
